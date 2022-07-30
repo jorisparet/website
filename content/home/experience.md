@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan. 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,29 +22,71 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: PhD Fellow
+    company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
+    company_url: 'https://coulomb.umontpellier.fr/'
+    company_logo: cnrs
+    location: Montpellier, France
+    date_start: '2018-10-01'
+    date_end: '2021-11-30'
+    tag: python
+    description: |2-
+        **PhD. thesis:** *Hidden order in disordered materials* ([<i class="fas fa-file-pdf"></i> PDF](https://tel.archives-ouvertes.fr/tel-03600627))
+
+        Study of the emergence of local order in disordered materials (supercooled liquids, glasses) using information theory and various machine learning methods such as clustering and dimensionality reduction. Two hundred hours of teaching in programming and physics.
+
+        `Computational physics` **|** `Machine learning` **|** `HPC` **|** `Python` **|** `C++` **|** `Fortran` **|** `Teaching`
+
+  - title: Research Assistant
+    company: Department of Physics, Université de Montréal
+    company_url: 'https://phys.umontreal.ca'
+    company_logo: udem
+    location: Montréal, Canada
+    date_start: '2018-02-01'
+    date_end: '2018-08-31'
+    description: |2-
+        Study of the phonon replica in the electronic structure of a FeSe monolayer on top of a SrTiO$_3$ substrate using Density Functional Theory and *ab initio* simulations. Courses on parallel computing (MPI, OpenMP, CUDA).
+        <br/>-- Financed by the [RQMP](https://rqmp.ca/) international internship grant program.
+
+        `Computational physics` **|** `Parallel computing` **|** `Python`
+
+  - title: Research Assistant
+    company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
+    company_url: 'https://coulomb.umontpellier.fr/'
+    company_logo: cnrs
+    location: Montpellier, France
+    date_start: '2017-05-01'
+    date_end: '2017-07-31'
+    description: |2-
+        Raman scattering and reflectometry of graphene samples on oxidised silicon with a thickness gradient. Development of a LabVIEW app for the automation of experimental measures.
+
+        `Experimental physics` **|** `Python` **|** `LabVIEW`
+
+  - title: Research Assistant
+    company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
+    company_url: 'https://coulomb.umontpellier.fr/'
+    company_logo: cnrs
+    location: Montpellier, France
+    date_start: '2016-05-01'
+    date_end: '2016-07-31'
+    description: |2-
+        Creation of heterostructures by mechanical exfoliation, transfer and stacking of 2D crystals. Raman spectroscopy and white-light reflectometry. Redaction of a user manual for an optical miscroscope for Master students.
+
+        `Experimental physics` **|** `Python`
+
+  - title: Research Assistant
+    company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
+    company_url: 'https://coulomb.umontpellier.fr/'
+    company_logo: cnrs
+    location: Montpellier, France
+    date_start: '2015-06-01'
+    date_end: '2015-06-30'
+    description: |2-
+      Numerical models and simulations of opinion dynamics on small-world networks.
+
+        `Computational physics` **|** `Python` **|** `Network theory`
 
 design:
-  columns: '2'
+  columns: '1'
 ---

@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Joris Paret # Website name
+baseURL: 'https://jorisparet.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -29,7 +29,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -47,7 +47,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
