@@ -3,7 +3,8 @@
 title: Joris Paret
 
 # Is this the primary user of the site?
-superuser: true
+# Add short bio at the end of project / post
+superuser: false
 
 # Role/position/tagline
 role: PhD. in Computational Physics
@@ -66,6 +67,14 @@ email: ''
 highlight_name: false
 ---
 
+-----
+
 My main interests revolve around physics, simulation and computer science. I like to find innovative solutions to complex problems by combining my scientific knowledge with my technical skills in programming and machine learning.
+
+### Contact
+
+-----
+
+Please do not hesitate to reach out with any questions or feedback you may have about my research or my personal projects.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
