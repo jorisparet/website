@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Joris Paret # Website name
-baseURL: 'https://jorisparet.github.io/' # Website URL
+baseURL: 'www.jorisparet.com' # Website URL
 
 ############################
 ## LANGUAGE
