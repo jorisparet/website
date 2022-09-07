@@ -19,6 +19,10 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/jorisparet/hamoco
+  - icon: python
+    icon_pack: fab
+    name: PyPI
+    url: https://pypi.org/project/hamoco/
 url_code: ''
 url_pdf: ''
 url_slides: ''
