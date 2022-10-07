@@ -17,10 +17,6 @@ image:
   focal_point: Smart
 
 links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
   - icon: github
     icon_pack: fab
     name: GitHub
