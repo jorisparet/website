@@ -9,6 +9,10 @@ summary: "partycls is a Python package for the analysis of systems of interactin
 projects: [partycls]
 
 links:
+  - icon: link
+    icon_pack: fas
+    name: Homepage
+    url: https://www.jorisparet.com/partycls
   - icon: github
     icon_pack: fab
     name: GitHub
