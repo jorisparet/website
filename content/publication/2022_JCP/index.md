@@ -27,14 +27,14 @@ links:
 #    icon_pack: ai
 #    icon: open-access
 #    url:
-#  - name: HAL
-#    icon_pack: ai
-#    icon: hal
-#    url: https://tel.archives-ouvertes.fr/tel-03600627/
-#  - name: PDF
-#    icon_pack: fas
-#    icon: file-pdf
-#    url: https://tel.archives-ouvertes.fr/tel-03600627/document
+  - name: arXiv
+    icon_pack: ai
+    icon: arxiv
+    url: https://arxiv.org/abs/2211.01904
+  - name: PDF
+    icon_pack: fas
+    icon: file-pdf
+    url: https://arxiv.org/pdf/2211.01904.pdf
   - name: Dataset
     icon_pack: ai
     icon: zenodo
@@ -48,7 +48,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The Journal of Chemical Physics*
-publication_short: In *The Journal of Chemical Physics* [**under review**]
+publication_short: In *The Journal of Chemical Physics* [**under publication**]
 
 abstract: We consider unsupervised learning methods for characterizing the disordered microscopic structure of super-cooled liquids and glasses. Specifically, we perform dimensionality reduction of smooth structural descriptors that describe radial and bond-orientational correlations, and assess the ability of the method to grasp the essential structural features of glassy binary mixtures. In several cases, a few collective variables account for the bulk of the structural fluctuations within the first coordination shell and also display a clear connection with the fluctuations of particle mobility. Fine-grained descriptors that characterize the radial dependence of bond-orientational order better capture the structural fluctuations relevant for particle mobility, but are also more difficult to parametrize and to interpret. We also find that principal component analysis of bond-orientational order parameters provides identical results to neural network autoencoders, while having the advantage of being easily interpretable. Overall, our results indicate that glassy binary mixtures have a broad spectrum of structural features. In the temperature range we investigate, some mixtures display well-defined locally favored structures, which are reflected in bimodal distributions of the structural variables identified by dimensionality reduction.
 
