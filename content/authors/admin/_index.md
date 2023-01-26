@@ -7,12 +7,12 @@ title: Joris Paret
 superuser: false
 
 # Role/position/tagline
-role: PhD. in Computational Physics
+role: Postdoctoral Machine Learning Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Montpellier
-    url: https://www.umontpellier.fr/
+  - name: ITER Organization
+    url: https://www.iter.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main interests revolve around physics, simulation and computer science. I like to find innovative solutions to complex problems by combining my scientific knowledge with my technical skills in programming and machine learning.

@@ -23,6 +23,19 @@ date_format: Jan. 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Postdoctoral Machine Learning Engineer/Scientist
+    company: ITER Organization
+    company_url: 'https://www.iter.org/'
+    company_logo: iter
+    location: Saint-Paul-lez-Durance, France
+    date_start: '2023-02-01'
+    date_end: ''
+    description: |2-
+
+        Exploration of the application of machine learning techniques for improving the verification and calibration of numerical models and algorithms when compared to operational measurements. Development of machine learning approaches for the calibration of machine monitoring.
+
+        `Machine learning` | `Python`
+
   - title: PhD Fellow
     company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
     company_url: 'https://coulomb.umontpellier.fr/'
@@ -30,7 +43,6 @@ experience:
     location: Montpellier, France
     date_start: '2018-10-01'
     date_end: '2021-11-30'
-    tag: python
     description: |2-
         **PhD. thesis:** *Hidden order in disordered materials* ([<i class="fas fa-file-pdf"></i> PDF](https://tel.archives-ouvertes.fr/tel-03600627))
 
