@@ -24,12 +24,21 @@ date_format: Jan. 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+  - certificate_url: uploads/certificate-iterative.pdf
+    date_end: ''
+    date_start: '2023-03-13'
+    description: ''
+    organization: 'Iterative'
+    organization_url: https://iterative.ai/
+    title: Iterative Tools for Data Scientists & Analysts
+    url: 'https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow'
+
   - certificate_url: https://coursera.org/verify/VCAVQHDT4JDT
     date_end: ''
     date_start: '2022-06-05'
     description: ''
     organization: 'IBM'
-    organization_url:
+    organization_url: https://www.ibm.com
     title: Building Deep Learning Models with TensorFlow
     url: 'https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow'
 
@@ -38,7 +47,7 @@ item:
     date_start: '2022-05-05'
     description:
     organization: IBM
-    organization_url:
+    organization_url: https://www.ibm.com
     title: Deep Neural Networks with PyTorch
     url: https://www.coursera.org/learn/deep-neural-networks-with-pytorch
 
@@ -47,7 +56,7 @@ item:
     date_start: '2022-04-27'
     description: ''
     organization: IBM
-    organization_url:
+    organization_url: https://www.ibm.com
     title: 'Introduction to Deep Learning & Neural Networks with Keras'
     url: https://www.coursera.org/learn/introduction-to-deep-learning-with-keras
 
@@ -56,7 +65,7 @@ item:
     date_start: '2022-04-26'
     description: ''
     organization: IBM
-    organization_url:
+    organization_url: https://www.ibm.com
     title: 'Machine Learning with Python'
     url: https://www.coursera.org/learn/machine-learning-with-python
 
