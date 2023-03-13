@@ -31,7 +31,7 @@ item:
     organization: 'Iterative'
     organization_url: https://iterative.ai/
     title: Iterative Tools for Data Scientists & Analysts
-    url: 'https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow'
+    url:
 
   - certificate_url: https://coursera.org/verify/VCAVQHDT4JDT
     date_end: ''
