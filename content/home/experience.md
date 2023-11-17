@@ -32,9 +32,9 @@ experience:
     date_end: ''
     description: |2-
 
-        Exploration of the application of machine learning techniques for improving the verification and calibration of numerical models and algorithms when compared to operational measurements. Development of machine learning approaches for the calibration of machine monitoring.
+        Exploration of the application of machine learning techniques for improving the verification and calibration of finite-element models when compared to operational measurements. Development of machine learning approaches for anomaly detection applied to machine monitoring (as part of the *Tokamak Systems Monitor* software suite). 
 
-        `Machine learning` | `Python`
+        `Machine learning` | `Python` | `FEA` | `Ansys` | `Mechanical engineering` | `Nuclear fusion`
 
   - title: PhD Fellow
     company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
