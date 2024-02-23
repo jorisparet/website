@@ -24,6 +24,15 @@ date_format: Jan. 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+  - certificate_url: https://coursera.org/verify/P8E8L5XTA5BD
+    date_end: ''
+    date_start: '2023-11-22'
+    description: ''
+    organization: 'DeepLearning.AI'
+    organization_url: https://www.deeplearning.ai/
+    title: Natural Language Processing in TensorFlow
+    url: 'https://www.coursera.org/learn/natural-language-processing-tensorflow'
+
   - certificate_url: https://coursera.org/share/dfb9f2b06001aee3b8d7b62a1b04a420
     date_end: ''
     date_start: '2023-11-17'
