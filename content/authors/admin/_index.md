@@ -20,9 +20,9 @@ bio: My main interests revolve around physics, simulation and computer science. 
 # Interests to show in About widget
 interests:
   - Computational Physics
+  - Nuclear Fusion
   - Condensed Matter Physics
-  - Computer Science
-  - Machine Learning
+  - Machine Learning and AI
   - Game development
 
 # Education to show in About widget
