@@ -3,7 +3,7 @@ title: "Contribution to the 14th IEEE Symposium on Fusion Engineering"
 subtitle:
 
 # Summary for listings and search engines
-summary: "Participation to the 14th Symposium on Fusion Engineering (SOFE 2025) in Boston, presenting a scientific poster on a machine learning-based calibration strategy for the ITER Tokamak Systems Monitor (TSM) software suite."
+summary: "Participation to the 14th IEEE Symposium on Fusion Engineering (SOFE 2025) in Boston, presenting a scientific poster on machine learning-based anomaly detection for the ITER Tokamak Systems Monitor (TSM), using gyrotron pulse data from the European industrial prototype for ITER."
 
 # Link this post with a project
 projects:
