@@ -24,6 +24,15 @@ date_format: Jan. 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+  - certificate_url: https://learn.deeplearning.ai/accomplishments/5ee821b4-5a99-4f5b-9c8a-8881a1692bc3?usp=sharing
+    date_end: ''
+    date_start: '2025-01-15'
+    description: ''
+    organization: 'DeepLearning.AI'
+    organization_url: https://www.deeplearning.ai/
+    title: LangChain for LLM Application Development
+    url: 'https://learn.deeplearning.ai/accomplishments/5ee821b4-5a99-4f5b-9c8a-8881a1692bc3?usp=sharing'
+
   - certificate_url: https://coursera.org/verify/P8E8L5XTA5BD
     date_end: ''
     date_start: '2023-11-22'

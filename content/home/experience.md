@@ -32,9 +32,9 @@ experience:
     date_end: ''
     description: |2-
 
-        Exploration of the application of machine learning techniques for improving the verification and calibration of finite-element models when compared to operational measurements. Development of machine learning approaches for anomaly detection applied to machine monitoring (as part of the *Tokamak Systems Monitor* software suite). 
+        Contributed to ITER, the world’s largest international scientific collaboration, aiming to demonstrate the feasibility of large-scale clean energy from nuclear fusion. Designed a machine-learning-based calibration strategy for ANSYS finite-element models using Bayesian optimization and Gaussian processes. Developed anomaly detection algorithms for predictive maintenance, enabling intershot and real-time monitoring. Contributed to the Tokamak Systems Monitor software, including version control and data handling (Git, DVC). Administered the team's multi-GPU compute server. Presented results at international conferences (SOFT, SOFE) and workshops (Fusion for Energy AI Workshop). Explored LLMs for automated tokamak operation reporting. Co-supervised interns and supported external contributors.
 
-        `Machine learning` | `Python` | `FEA` | `Ansys` | `Mechanical engineering` | `Nuclear fusion`
+        `Machine learning` **|** `Artificial intelligence` **|**  `Python` **|** `Nuclear fusion` **|** `FEA` **|** `Ansys` **|** `Mechanical engineering`
 
   - title: PhD Fellow
     company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
@@ -44,9 +44,8 @@ experience:
     date_start: '2018-10-01'
     date_end: '2021-11-30'
     description: |2-
-        **PhD. thesis:** *Hidden order in disordered materials* ([<i class="fas fa-file-pdf"></i> PDF](https://tel.archives-ouvertes.fr/tel-03600627))
 
-        Study of the emergence of local order in disordered materials (supercooled liquids, glasses) using information theory and various machine learning methods such as clustering and dimensionality reduction. Two hundred hours of teaching in programming and physics.
+        Research on the emergence of local order in disordered materials such as glasses and supercooled liquids using molecular dynamics simulations, unsupervised machine learning (clustering, dimensionality reduction, autoencoders), and information theory. Developed a fully documented open-source Python package (partycls) for machine-learning-based structural analysis, with CI/CD integration. Ran large-scale simulations on CPU and GPU clusters. Presented work at international conferences and workshops. Delivered 200+ hours of undergraduate teaching in physics and programming.
 
         `Computational physics` **|** `Machine learning` **|** `HPC` **|** `Python` **|** `C++` **|** `Fortran` **|** `Teaching`
 
@@ -58,10 +57,10 @@ experience:
     date_start: '2018-02-01'
     date_end: '2018-08-31'
     description: |2-
-        Study of the phonon replica in the electronic structure of a FeSe monolayer on top of a SrTiO$_3$ substrate using Density Functional Theory and *ab initio* simulations. Courses on parallel computing (MPI, OpenMP, CUDA).
+        Performed quantum simulations to study the electronic and vibrational properties of complex 2D materials. Hands-on experience with large-scale simulations on HPC clusters. Attended international summer schools on parallel computing (MPI, OpenMP, CUDA) and quantum physics for materials science.
         <br/>-- Financed by the [RQMP](https://rqmp.ca/) international internship grant program.
 
-        `Computational physics` **|** `Parallel computing` **|** `Python`
+        `Computational physics` **|**  `Quantum physics` **|** `Parallel computing` **|** `Python`
 
   - title: Research Assistant
     company: Laboratoire Charles Coulomb, CNRS & Université de Montpellier
@@ -71,7 +70,7 @@ experience:
     date_start: '2017-05-01'
     date_end: '2017-07-31'
     description: |2-
-        Raman scattering and reflectometry of graphene samples on oxidised silicon with a thickness gradient. Development of a LabVIEW app for the automation of experimental measures.
+        Performed Raman scattering and reflectometry experiments on graphene samples using complex experimental setups. Contributed to the development of a LabVIEW application for automating measurements and used Python for data analysis.
 
         `Experimental physics` **|** `Python` **|** `LabVIEW`
 
@@ -83,7 +82,7 @@ experience:
     date_start: '2016-05-01'
     date_end: '2016-07-31'
     description: |2-
-        Creation of heterostructures by mechanical exfoliation, transfer and stacking of 2D crystals. Raman spectroscopy and white-light reflectometry. Redaction of a user manual for an optical miscroscope for Master students.
+        Fabricated complex heterostructures through mechanical exfoliation and stacking of 2D materials. Characterized materials using Raman spectroscopy and white-light reflectometry. Authored a microscope user manual for training graduate students in optical characterization.
 
         `Experimental physics` **|** `Python`
 
@@ -95,7 +94,7 @@ experience:
     date_start: '2015-06-01'
     date_end: '2015-06-30'
     description: |2-
-      Numerical models and simulations of opinion dynamics on small-world networks.
+        Developed Python models and ran simulations to study how opinions propagate on small-world networks. Explored consensus dynamics and decision-making processes by systematically varying model parameters and assumptions. Conducted extensive data analysis to evaluate behavioral patterns and outcomes across different scenarios.
 
         `Computational physics` **|** `Python` **|** `Network theory`
 

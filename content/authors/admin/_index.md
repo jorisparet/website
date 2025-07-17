@@ -15,7 +15,7 @@ organizations:
     url: https://www.iter.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main interests revolve around physics, simulation and computer science. I like to find innovative solutions to complex problems by combining my scientific knowledge with my technical skills in programming and machine learning.
+bio: Machine learning scientist and computational physicist with strong programming expertise in Python and experience working in international, multidisciplinary environments. Currently applying ML to model calibration and anomaly detection at ITER Organization, with a solid foundation in scientific research, algorithm development, and open-source software. Passionate about solving complex technical challenges in nuclear fusion and R&D settings.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ highlight_name: false
 
 -----
 
-My main interests revolve around physics, simulation and computer science. I like to find innovative solutions to complex problems by combining my scientific knowledge with my technical skills in programming and machine learning.
+Machine learning scientist and computational physicist with strong programming expertise in Python and experience working in international, multidisciplinary environments. Currently applying ML to model calibration and anomaly detection at ITER Organization, with a solid foundation in scientific research, algorithm development, and open-source software. Passionate about solving complex technical challenges in nuclear fusion and R&D settings.
 
 ### Contact
 
